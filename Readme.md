@@ -20,6 +20,7 @@ Meanwhile the *sputum smear bacteria counting* is pretty much realiable method, 
 This is the example of what technician usually sees in one *field of view*:
 
 ![Image of sputum smear specimen](https://github.com/lolikgiovi/Object-Detection-Skripsi/blob/main/Resources/00018.jpg?raw=true)
+
 The bacteria colored red, meanwhile anything other than bacteria (called background) *ideally should* be light-blue colored. But for most cases, there are too much staining that make the background become too blue. The bacteria itself ideally should be colored bright red, but it could be too light to be seen.
 
 With that kind of situation, the technician could have produced a wrong judgment to count bacteria that led to a number of false negatives. Since they have to count around **300 *field of views***, it could be an exhausting work and led to a human error problem.
